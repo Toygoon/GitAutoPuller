@@ -11,6 +11,6 @@ public class GitAutoPullerApplication {
         Configuration config = new Configuration();
         config.readConfig();
 
-        SpringApplication.run(GitAutoPullerApplication.class, args);1
+        SpringApplication.run(GitAutoPullerApplication.class, args);
     }
 }
